@@ -1,0 +1,13 @@
+Git commands
+
+--  git init
+--  git add . || git add "filename"
+--  git commit -m "Commit message"
+--  git log
+--  git status
+--  git diff "file name"        // give difference between previous coomited file and current supdated file without that is not commited yet
+--  git checkout "file name"    // Rollback changes
+--  git remote add origin URL
+--  git branch -M main
+--  git push -u origin main
+--  git rm --cached -r .      //Every thing removed from staging area
