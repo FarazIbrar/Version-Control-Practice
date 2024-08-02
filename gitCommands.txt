@@ -12,3 +12,7 @@ Git commands
 --  git push -u origin main
 --  git rm --cached -r .      //Every thing removed from staging area
 --  git clone URL
+
+-- git branch "name"          //Add new branch
+-- git checkout "name"         //Switch to branch
+-- git merge "name"            //Merge branch into current branch
