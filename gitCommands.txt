@@ -11,3 +11,4 @@ Git commands
 --  git branch -M main
 --  git push -u origin main
 --  git rm --cached -r .      //Every thing removed from staging area
+--  git clone URL
